@@ -1,4 +1,4 @@
-package br.com.moonsea.java.demoapi1;
+package br.com.moonsea.java.demoapi1.trecos;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
